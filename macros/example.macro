@@ -16,4 +16,3 @@
 {"id": 15, "kind": "key_pressed", "key": "c", "delay": 0.411}
 {"id": 16, "kind": "key_pressed", "key": "r", "delay": 0.214}
 {"id": 17, "kind": "key_pressed", "key": "o", "delay": 0.203}
-{"id": 18, "kind": "special_key_pressed", "key": "Key.enter", "delay": 0.71}

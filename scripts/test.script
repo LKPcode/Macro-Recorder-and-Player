@@ -1,4 +1,4 @@
-macro loukas.macro 1
+macro example.macro 1
 if home.png
     wait 2
     left_click

@@ -6,14 +6,14 @@ import sys
 
 def main():
     if len(sys.argv) <= 2:
-        print("You must provide at least <mode> AND <filepath>")
+        print("You must provide at least <mode> AND <filename>")
         return 0
 
     if sys.argv[1] == "record":
         print("Recording has begun. Save and Quit with <Esc>")
         EventListener(sys.argv[2]).start()
 
-    elif sys.argv[1] == "run":
+    elif sys.argv[1] == "macro":
         Player().play_file(sys.argv[2], 1)
 
     elif sys.argv[1] == "script":
