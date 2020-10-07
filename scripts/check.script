@@ -1,0 +1,5 @@
+if image
+left_click
+else
+macro doThis 4
+goto 1

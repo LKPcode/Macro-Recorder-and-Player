@@ -1,0 +1,19 @@
+{"id": 0, "kind": "mouse_click_left", "x": 1207, "y": 1001, "delay": 0.601}
+{"id": 1, "kind": "mouse_click_left", "x": 1333, "y": 940, "delay": 0.488}
+{"id": 2, "kind": "mouse_click_left", "x": 690, "y": 894, "delay": 0.4}
+{"id": 3, "kind": "mouse_click_left", "x": 689, "y": 968, "delay": 0.376}
+{"id": 4, "kind": "mouse_click_left", "x": 1028, "y": 1005, "delay": 1.024}
+{"id": 5, "kind": "key_pressed", "key": "e", "delay": 1.665}
+{"id": 6, "kind": "key_pressed", "key": "x", "delay": 0.346}
+{"id": 7, "kind": "key_pressed", "key": "a", "delay": 0.352}
+{"id": 8, "kind": "key_pressed", "key": "m", "delay": 0.363}
+{"id": 9, "kind": "key_pressed", "key": "p", "delay": 0.168}
+{"id": 10, "kind": "key_pressed", "key": "l", "delay": 0.151}
+{"id": 11, "kind": "key_pressed", "key": "e", "delay": 0.204}
+{"id": 12, "kind": "special_key_pressed", "key": "Key.space", "delay": 0.234}
+{"id": 13, "kind": "key_pressed", "key": "m", "delay": 0.19}
+{"id": 14, "kind": "key_pressed", "key": "a", "delay": 0.134}
+{"id": 15, "kind": "key_pressed", "key": "c", "delay": 0.411}
+{"id": 16, "kind": "key_pressed", "key": "r", "delay": 0.214}
+{"id": 17, "kind": "key_pressed", "key": "o", "delay": 0.203}
+{"id": 18, "kind": "special_key_pressed", "key": "Key.enter", "delay": 0.71}

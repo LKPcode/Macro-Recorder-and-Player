@@ -1,0 +1,7 @@
+macro loukas.macro 1
+if home.png
+    wait 2
+    left_click
+    left_click
+else 
+    goto 1

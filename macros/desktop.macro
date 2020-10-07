@@ -1,0 +1,4 @@
+{"id": 2, "kind": "key_pressed", "key": "l", "delay": 2.523}
+{"id": 3, "kind": "key_pressed", "key": "k", "delay": 0.168}
+{"id": 4, "kind": "key_pressed", "key": "p", "delay": 0.395}
+{"id": 5, "kind": "left_click_image", "image":"/home/spectator/Desktop/macro-project/AutoPy/images/targets/home.png" ,"delay": 0.595}
