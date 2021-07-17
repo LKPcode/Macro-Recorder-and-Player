@@ -1,5 +1,5 @@
-macro example.macro 1
-if home.png
+macro login.macro 1
+if icarus.png
     wait 2
     left_click
     left_click

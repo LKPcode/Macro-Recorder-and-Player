@@ -11,6 +11,7 @@ def main():
 
     if sys.argv[1] == "record":
         print("Recording has begun. Save and Quit with <Esc>")
+
         EventListener(sys.argv[2]).start()
 
     elif sys.argv[1] == "macro":
